@@ -2,6 +2,13 @@
 
 A PostgreSQL database assignment implementing a simplified football ticket booking system with ERD design, schema creation, sample data, and SQL queries.
 
+## Links
+
+- **ERD (Interactive Viewer):** [View ERD on diagrams.net](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&target=blank&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Assignment_three_ERD.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1QT8u3DBzweWTXtJah9I6oWYAqX-kCH8i%26export%3Ddownload)
+- **ERD (Google Drive):** [View ERD on Google Drive](https://drive.google.com/file/d/1QT8u3DBzweWTXtJah9I6oWYAqX-kCH8i/view?usp=drive_link)
+- **GitHub Repository:** [Sakebul-islam/Assignment-3](https://github.com/Sakebul-islam/Assignment-3)
+- **Interview Video:** [Watch on Google Drive](https://drive.google.com/file/d/1qnsB5XDFcOP6VUPFzPv5VZKpJDzSKM1_/view?usp=sharing)
+
 ## ERD Diagram
 
 ![ERD](ERD/Assignment_three_ERD.png)
